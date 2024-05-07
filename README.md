@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a simple landing page for a photography portfolio.
-It showcases the photographer's work and provides a contact form for potential clients to get in touch.
+It showcases the photographer's work and provides a contact for potential clients to get in touch.
 
 ## Features
 - Responsive design: The landing page is optimized for various screen sizes, ensuring a consistent experience across devices.
